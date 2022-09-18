@@ -5,3 +5,5 @@
 <h3> This should be automatic now!</h3>
 <h3> Now there are build triggers checking if this code gets updated every minute </h3>
 <h3> Well Now we are using ansible playbook to build the docker image and push it to dockerhub </h3>
+<h4> Now Ansible is first pushing image to docker hub and then pulls image and builds container </h4>
+
